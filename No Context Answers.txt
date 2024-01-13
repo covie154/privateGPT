@@ -1,0 +1,1765 @@
+You are reviewing the x-rays of a 38-year-old man. His skull x-ray shows the paranasal sinuses to be enlarged, as is the sella. There is hyperostosis to the inner table of the skull. He has also had other x-rays taken. Which of the following would fit with a diagnosis of acromegaly? Select ONE answer only.
+A. Posterior vertebral scalloping
+B. Rheumatoid arthritis
+C. Hook-like osteophytes on the second and third metacarpal heads
+D. Subperiosteal bone resoprtion
+E. Rugger jersey spine
+pGPT ans: I'm sorry, but the provided context does not contain enough information to answer your question about which x-ray findings would fit with a diagnosis of acromegaly.
+
+
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+large skin folds of face + scalp
+
+Location:   epiphyses + diametaphyseal region of tubular
+bones; distal third of bones of legs + forearms (early); distal
+phalanges rarely involved
+
+√  enlargement of paranasal sinuses
+
+√  irregular periosteal proliferation of phalanges + distal long
+bones (hand + feet) beginning in epiphyseal region at tendon / ligament
+insertions
+
+√  thick cortex, BUT NO narrowing of medulla
+
+√  clubbing
+
+√  may have acroosteolysis
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1999/2218:
+skull deformity and may be associated with compensatory growth on 
+the unaffected side, resulting in frontoparietal bossing (Fig. 76.51). 
+Metopic synostosis causes trigonocephaly or ‘keel deformity’, and an 
+AP view may show parallel, vertically oriented medial orbital walls. 
+True unilateral lambdoid synostosis, the rarest form of monosutural 
+synostosis, causes posterior plagiocephaly. This should be distinguished 
+from the much more common positional or deformational plagiocephaly
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1587/2218:
+bony portion of the EAC. When considering this diagnosis, it is important 
+for the radiologist to answer the following questions:
+•�
+Is�there�any�erosion�of�the�adjacent�bony�walls�to�suggest�a�more�
+aggressive process such as neoplasia or necrotising otitis externa?
+•�
+What�is�the�depth�of�the�occluding�soft�tissue?�Does�the�fibrotic�
+tissue extend to involve the TM?
+•�
+Is�there�a�normally�pneumatised�middle�ear�cleft�deep�to�the�occluding�
+soft tissue?
+•�
+
+> source_documents\Bydder FRCR Part A.pdf, page 80/382:
+54) A 30-year-old woman undergoes plain radiographic imaging of the
+hand for a palpable, painful hard lump on the dorsum. Plain radio-
+graphs show a well-deﬁned bony mass applied closely to the diaphy-
+sis of the second metacarpal. CT shows a wide-based pedunculated
+lesion with a perpendicular orientation to the diaphysis, no cartilage
+cap and a matrix of mature trabeculated bone. What is the most
+likely diagnosis?
+a. osteochondroma
+b. multiple osteocartilaginous exostoses
+You are reviewing the MRI scan of a 45-year-old woman's brain who has recently been diagnosed with an orbital haemangioma. Which of the following is NOT a feature of an orbital haemangioma?
+A. Central signal void on MRI
+B. Can cause bony remodelling
+C. Low T1 signal pseudocapsule
+D. Displaces surrounding structures
+E. Filling-in phenomenon
+pGPT ans: The text does not provide information on all the options given, so I can't definitively answer this question.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1563/2218:
+appearance, however, and can be seen in other pathologies, including 
+pseudotumour, optic neuritis, sarcoid, lymphoma and metastatic disease.
+Vascular Lesions of the Orbit
+Cavernous Haemangioma
+Cavernous haemangioma is the most common primary orbital tumour 
+in adults, representing approximately 6% of all orbital masses. The 
+classification as a tumour is actually a misnomer; in fact, this lesion type 
+represents an angiographically silent venous malformation consisting
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 631/2218:
+tissue. Most haemangiomas are asymptomatic incidental imaging findings. 
+Haemangiomas between 2 and 4 cm in diameter are most likely to 
+possess characteristic features that facilitate a confident imaging-based 
+diagnosis.
+MRI is the most sensitive and specific imaging examination for the 
+diagnosis of haemangioma. Using extended echo time (e.g. TE of 120 to 
+160 ms) T2 weighted spin-echo sequences at 1.5 T, haemangiomas appear
+
+> source_documents\Lindsay FRCR 2A.pdf, page 103/315:
+pp. 318–327.
+53. F. ↑T1 ↑T2 ↓STIR
+The variable proportions of vascular and fatty soft-tissue elements inﬂ uence the MRI appearance 
+of haemangiomas. Lesions with a predominantly fatty matrix show high signal intensity on T1WI, 
+intermediate to high signal intensity on T2WI, and loss of signal on STIR or fat-suppressed T2WI. 
+If the vascular elements predominate, the lesions appear hypointense on T1WI and extremely
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 634/2218:
+Atypical Haemangiomas
+Small (<1.5 cm) lesions are frequently difficult to characterise and may 
+fail to demonstrate either the characteristic signal changes on T2 weighted 
+MRI (partial volume effects) or the typical enhancement pattern on 
+CT or MRI. Small lesions may fill in relatively rapidly and be confused 
+with other arterial enhancing solid lesions. Larger lesions (>4 cm) often 
+have atypical internal features such as an area of central fibrosis that
+A 43-year-old woman undergoes a renal ultrasound scan for recurrent urinary tract infections. This demonstrates hyperechoic renal pyramids with posterior acoustic shadowing suggestive of cortical nephrocalcinosis. Which of the following is NOT a recognised cause of cortical nephrocalcinosis? Select ONE answer only.
+A. Marfan syndrome
+B. Alport syndrome
+C. Chronic transplant rejection
+D. Disseminated mycobacterium avium intracellulare infection
+E. Disseminated pneumocystis infection
+pGPT ans: The text does not provide information on whether Alport syndrome, Marfan syndrome, Chronic transplant rejection, Disseminated mycobacterium avium intracellulare infection, or Disseminated pneumocystis infection are recognized causes of cortical nephrocalcinosis.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 717/2218:
+cinosis is caused by hyperparathyroidism, medullary sponge kidney, 
+renal tubular acidosis, hypervitaminosis D and primary hyperoxaluria. 
+Cortical nephrocalcinosis is caused by acute cortical necrosis, chronic 
+glomerulonephritis and primary hyperoxaluria. Nephrocalcinosis can 
+be seen on conventional radiography and ultrasound (US). Stippled 
+patterns of calcification are observed on conventional radiographs in 
+the cortical and medullary regions of the kidneys due to cortical and
+
+> source_documents\[Crack the core Volume 1] Prometheus Lionhart.pdf, page 371/572:
+Medullary Nephrocalcinosis
+Hyperechoic renal papilla / pyramids which may or may not shadow on 
+ultrasound.
+Causes:
+• Hyperparathyroidism - Most people say this is the most common.
+• Medullary Sponge Kidney - Some people say this is the most common.
+• Lasix - Common cause in children.
+• Renal Tubular Acidosis (distal subtype - type 1)
+Trivia: RTA and Hyper PTH - tend to cause a more dense calcification 
+than medullary sponge.
+Medullary Sponge Kidney
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1858/2218:
+the vascular renal cortex. Diffuse nephroblastomatosis may present as 
+a thick rind of reduced echogenicity on US. Multifocal disease may be 
+difficult to identify as small NR, may resemble normal renal cortex on 
+all techniques, or present as slightly nodular or plaque-like lesions. 
+They are typically identified as small homogeneous lesions in the context 
+of an individual with a Wilms tumour or genetic predisposition. The
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1856/2218:
+idiopathic hypercalciuria and hyperoxaluria, distal tubular acidosis and 
+rare causes include hyperthyroidism and hyperparathyroidism. The 
+differentiation on US among medullary, cortical and global nephroc-
+alcinosis may be important in terms of aetiology, and also to detect 
+complications such as secondary stone formation or papillary necrosis. 
+US can be used for grading medullary nephrocalcinosis, but cannot 
+distinguish between calcium phosphate (nephrocalcinosis) and calcium
+A 40-year-old man develops dyspnoea and general malaise and presents to A&E. On examination he has pitting oedema to his feet, a heart murmur on auscultation and distension of his neck veins. A CXR shows bilateral pleural effusions. The A&E doctor is worried he might have an aortic dissection, so he undergoes a CT scan. This shows, among other things, flattening of the right ventricle with curvature of the interventricular septum to the left. What is the diagnosis?
+A. Pericarditis
+B. Aortic dissection type A
+C. Aortic dissection type B
+D. Lobar pulmonary emboli
+E. Aortic coarctation
+pGPT ans: I'm sorry, but the information provided does not contain enough details to definitively diagnose the condition of the 40-year-old man.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 34/382:
+85) A 62-year-old male presents with increasing shortness of breath.
+Clinically, he has oedematous ankles, raised central venous
+pressure, ascites and hepatomegaly. Blood tests show mildly
+raised inﬂammatory markers. Which feature on CT would make
+restrictive cardiomyopathy a more likely diagnosis than constrictive
+pericarditis?
+a. dilated inferior vena cava
+b. pleural effusions
+c. normal pericardial thickness
+d. pericardial calciﬁcation
+e. previous coronary artery surgery
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 453/2218:
+of the ligamentum arteriosum (arrow), confirming the suspicion on the enhanced image (B). The patient has 
+a large pericardial effusion. 
+The whole area of the aortic knuckle may appear small and flat. On 
+the lateral radiograph an enlarged internal mammary artery may be 
+seen behind the sternum.
+These CXR signs may already suggest the diagnosis. Demonstration 
+of the coarctation may be difficult by transthoracic ultrasound in adults
+
+> source_documents\Bydder FRCR Part A.pdf, page 24/382:
+e. extramedullary haematopoiesis
+47) A 52-year-old male presents with dyspnoea and cough. A chest
+radiograph shows an ill-deﬁned opacity in the right mid-zone,
+obscuring the heart border. A lateral view shows a thin wedge-
+shaped opacity with base in contact with the pleura anteroin-
+feriorly, and pointing posterosuperiorly. What is the most likely
+diagnosis?
+a. right middle lobe collapse
+b. right middle lobe consolidation
+c. right lower lobe collapse
+d. right lower lobe consolidation
+
+> source_documents\Bydder FRCR Part A.pdf, page 16/382:
+no digital clubbing. A chest radiograph shows a well-deﬁned pleural
+mass, forming an obtuse angle with the chest wall. CT conﬁrms an
+ovoid, pleurally based, enhancing mass with no bone destruction,
+effusion or volume loss. Radiographs of the wrists and ankles
+show symmetrical periosteal reaction. What is the most likely
+diagnosis?
+a. hypertrophic osteoarthropathy with bronchogenic carcinoma
+b. hypertrophic osteoarthropathy with malignant mesothelioma
+An 18-year-old man complains to his GP of a thin watery discharge coming from his umbilicus. He recently returned from a gap year and is worried that his new naval piercing, done abroad, is infected. The GP requests an ultrasound scan which shows a tubular fluid filled structure in the anterior abdominal wall. What is the most likely diagnosis?
+A. Remnant cyst
+B. Seminal vesicle cyst
+C. Cystic prostate cancer
+D. Mullerian duct cyst
+E. Prostatic utricle cyst
+pGPT ans: The context does not provide enough information to answer this question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 82/161:
+The most likely diagnosis is?
+(a) Medullary nephrocalcinosis
+(b) Renal cortical necrosis
+(c) Papillary necrosis
+(d) Acute pyelonephritis
+(e) Acute interstitial nephritis
+8. A 35-year-old Asian woman presents with lower abdominal pain and fever. 
+Transvaginal ultrasound shows bilateral, homogenous, extraovarian, tubular 
+lesions containing fluid with featureless walls. 
+What is the most likely diagnosis?
+(a) Cystic ovarian tumour
+(b) Chocolate cysts
+(c) Bilateral hydrosalpinx
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 94/161:
+Questions
+89
+45. A 10-year-old girl presents with urinary tract infection. Ultrasound and micturating 
+cystourethrogram demonstrates a left-sided vesicoureteral reflux with reflux to the 
+pelvicalyceal system without calyceal dilatation or blunting.
+What is the most likely grade of the vesicoureteral reflux?
+(a) Grade I
+(b) Grade II
+(c) Grade III
+(d) Grade IV
+(e) Grade V
+46. A 40-year-old Caucasian man presented with a painless left testicular nodule.
+
+> source_documents\Lindsay FRCR 2A.pdf, page 158/315:
+ultrasound and surrounded by normal fatty tissue. Hypervascular ﬂ ow 
+within the mass is noted on Doppler ultrasound. Which of the following is 
+the most likely diagnosis?
+A. Invasive ductal carcinoma.
+B. Lipoma.
+C. Gynaecomastia.
+D. Lymphoma.
+E. Dermatoﬁ brosarcoma.
+5. 
+A 62-year-old woman presents with recurrent urinary tract infections 
+(UTIs) and a pelvic/renal tract ultrasound is performed. This demonstrates 
+normal kidneys and bladder, but there is a 5-cm solid, hypoechoic mass
+
+> source_documents\Lindsay FRCR 2A.pdf, page 129/315:
+ring-like indentations. What is the most likely diagnosis?
+A. Idiopathic eosinophilic oesophagitis (IEE).
+B. Crohn’s disease.
+C. Oesophageal carcinoma.
+D. Oesophageal perforation.
+E. Peptic stricture.
+57. A patient has an ultrasound scan carried out on a radiographer’s ultrasound 
+list. The radiographer notices an unusual ﬁ nding and asks you to check 
+the images. The liver, kidneys, and spleen appear unremarkable. There are
+ A 58-year-old lady undergoes an MRI of her spine. The T6 vertebra returns high signal on both T1 and T2. What is the most likely diagnosis?
+A.  Haemangioma
+B. Metastatic malignant melanoma
+C. Metastatic breast cancer
+D. Lymphoma
+E. Paget disease
+pGPT ans: The context does not provide enough information to answer this question.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1638/2218:
+ing With Back Pain. (A) Skeletal scintigram. There are no focal areas 
+of abnormal uptake in the skeleton. (B) T1 weighted sagittal magnetic 
+resonance imaging (MRI) study of spine demonstrating multiple areas 
+of low signal in the vertebral bodies consistent with bony metastases. 
+Mechanical cord compression is threatened in the upper thoracic area. 
+MRI was performed a week after scintigraphy.
+
+> source_documents\Afaq - Succeeding in the new FRCR Part 2A Exam.pdf, page 52/219:
+42
+Module 2: Musculoskeletal and trauma
+5. 
+A 55-year-old woman with breast cancer and back pain 
+undergoes investigation with MRI. Which of the following 
+indicates a malignant rather than osteoporotic vertebral 
+fracture? 
+ 
+A. Convex posterior cortex
+ 
+B. 
+Normal Signal Intensity (SI) on all sequences
+ 
+C. 
+Retropulsion of a posterior bone fragment
+ 
+D. Band-like low SI adjacent to the fracture
+ 
+E. 
+Homogenous ‘return to normal’ SI after contrast
+6.
+
+> source_documents\Mankad - Revision Notes for the Final FRCR Part A.pdf, page 325/385:
+Spine
+321
+•� T1WI�post-contrast�shows�linear�
+enhancement�along�posteriorly�displaced�
+dura�and�around�margins�of�abscess�(pus�
+does�not�enhance)
+Vertebral body metastases
+•� Lung�and�breast�and�myeloma�are�the�
+commonest�primary�tumours�in�adults
+Imaging features
+MRI
+•� Vertebral�body�collapse�fracture
+•� T1WI�shows�low�signal�foci�compared�with�
+normal�high-signal�marrow�fat
+•� T2�STIR�shows�high-signal�foci�compared�
+with�saturated�‘dark’�fat
+•� Standard�T2�sequences�are�unreliable�for�
+
+> source_documents\Bydder FRCR Part A.pdf, page 71/382:
+of the following radiographic features is most likely to indicate an
+aggressive or malignant process?
+a. cortical expansion
+b. lytic process
+c. periosteal reaction
+d. multiple lesions
+e. wide zone of transition
+18) In a patient who presents with acute femoral nerve radiculopathy,
+which of the following MRI sequences is the most useful in the
+diagnosis of a far lateral upper lumbar vertebral disc protrusion?
+a. sagittal STIR
+b. sagittal T1
+c. sagittal T2
+d. axial STIR
+e. axial T2
+You review an MRI scan of a 50-year-old patient with carpal tunnel syndrome. The floor of the carpal tunnel is formed by which of the following? Select ONE answer only.
+A. The carpal arch
+B. The palmar carpal ligament
+C. The palmar aponeurosis
+D. The extensor retinaculum
+E. The flexor retinaculum
+pGPT ans: I'm sorry, but the information provided does not specify what forms the floor of the carpal tunnel.
+
+
+
+> source_documents\[Crack the core Volume 2] Prometheus Lionhart (1).pdf, page 22/588:
+• 1 Median Nerve
+The Flexor Carpi Radialis (FCR) is NOT truly in the tunnel. The extensor tendons are on the other side of 
+the hand. Note that Flexor Pollicis Longus (FPL) goes through the tunnel, but Flexor Pollicis Brevis does 
+not (it’s an intrinsic handle muscle). Palmaris longus (if you have one) does NOT go through the tunnel.
+Does NOT go through Tunnel
+• -Flexor Carpi Radialis
+• -Flexor Carpi Ulnaris
+• -Palmaris Longus (if you have one)
+• -Flexor Pollicis BREVIS
+22
+
+> source_documents\[Crack the core Volume 2] Prometheus Lionhart (1).pdf, page 22/588:
+rupture after a non-displaced radial fracture.
+• 
+The sixth compartment (Extensor Carpi Ulnaris) -  can get an early tenosynovitis in RA
+Radius
+FCR
+Not in the 
+true tunnel
+Median
+Nerve
+Carpal Tunnel: They could show you the 
+carpal tunnel, but only to ask you about anatomy.
+What goes through the carpal tunnel finore easily 
+asked as “what does NOT go through ”)?
+Knowing what is in (and not in) the caipal tunnel 
+is high yield for muhiple choice testing. The
+
+> source_documents\[Crack the core Volume 2] Prometheus Lionhart (1).pdf, page 23/588:
+Carpal Tunnel Syndrome (CTS):
+• Median Nerve Distribution (thumb-radial aspect of 
+digit), 
+often bilateral, and may have thenar muscle atrophy.
+• On Ultrasound, enlargement of the nerve 
+is the main thing to look for
+• It’s usually from repetitive trauma,
+• Trivia = Association with Dialysis. Pregnancy, DM, 
+and HYPOthyroidism
+Classic Findings:
+• Increased Signal in the Median Nerve
+• The Nerve May Also Be Swollen or 
+Look Smashed / Flattened
+• Bowing of the Flexor Retinaculum
+Median Nerve
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 985/2218:
+occur within the carpal tunnel in patients with synovitis of the wrist 
+or flexor tendons. Lesions with mass effect arising from the tendon 
+sheath or peripheral nerve sheath tumours are occasionally encountered.
+Diagnosis is often made by a combination of clinical findings and 
+nerve conduction studies. US or MRI may be required in cases with 
+atypical features. Imaging is used to visualise abnormalities of the nerve 
+and to exclude secondary causes of CTS. The changes in the nerve are
+A 50-year-old woman with a history of previous breast reduction surgery presents for a screening mammogram under the NHS breast screening programme. This shows a lesion in the RUO quadrant which has a stellate appearance and shows central lucency. What is the most likely diagnosis?
+A. Radial scar
+B. Carcinoma
+C. Phyllodes tumour
+D. Fibroadenoma
+E. Galactocoele
+pGPT ans: The context does not provide enough information to answer this question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 92/161:
+Questions
+87
+38. A 35-year-old woman with a strong family history of breast cancer presents with 
+a breast lump. Ultrasound shows a hypoechoic lesion with internal echoes. 
+Gadolinium-enhanced contrast imaging demonstrates a 2 cm, non-enhancing, 
+oval lesion in the right breast. 
+What is the most likely diagnosis?
+(a) Fat necrosis
+(b) Fibroadenoma
+(c) Cyst
+(d) Carcinoma
+(e) Radial scar
+39. A 41-year-old woman presents with a lump in her right breast. Mammography
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 92/161:
+spherical abnormality measuring about 4 cm with a rim of thin curvilinear area of 
+calcification in the right breast. 
+What is the most likely diagnosis?
+(a) Vascular calcification
+(b) Fat necrosis
+(c) Secretory calcifications in ducts
+(d) Milk of calcium
+(e) Ductal carcinoma in situ
+41. A 12-year-old pre-pubertal girl presents with vaginal bleeding. 
+What is the most likely diagnosis?
+(a) Vaginal foreign body
+(b) Endometrial hyperplasia
+(c) Ovarian fibroma
+(d) Sarcoma
+(e) Endometrioma
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 88/161:
+(b) Angiomyolipomas
+(c) Lymphoma
+(d) Metastases
+(e) Multiple lipomas
+26. A 60-year-old woman had a screening mammogram which shows a densely 
+calcified lesion in the right breast. The lesion is smoothly marginated and has soft 
+tissue density with dense coarse ‘popcorn’ calcification. 
+What is the most likely diagnosis?
+(a) Breast carcinoma
+(b) Ductal carcinoma in situ
+(c) Fibroadenoma
+(d) Fibroadenosis
+(e) Fat necrosis
+
+> source_documents\Lindsay FRCR 2A.pdf, page 160/315:
+the reporting registrar. Which of the following features, if any, would be 
+suggestive of breast malignancy?
+A. Ill-deﬁ ned margin.
+B. Spiculated margin.
+C. Calciﬁ cation.
+D. Multiple lesions.
+E. CT is not reliably predictive of breast malignancy.
+You are reviewing an MRI scan performed the day before. The report describes a lesion with heterogenous T1W signal and heterogenous T2W signal. Which of the following is LEAST likely?
+A. Meningioma
+B. Haematoma
+C. Cavernoma
+D. Malignant melanoma metastasis
+E. Renal cell carcinoma metastasis
+pGPT ans: I'm sorry, but the provided context does not contain enough information to determine which of the listed conditions is least likely based on the described MRI scan.
+
+
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+MR:
+
+√  high signal intensity on both T1WI and T2WI
+
+√  heterogeneous signal intensity ← hemorrhage / necrosis
+
+DDx:  malignant mesothelioma, lymphoma, thymic carcinoma /
+malignant germ cell tumor (older male, no diffuse pleural seeding),
+peripheral lung carcinoma (no dominant mediastinal mass), metastatic
+disease (not unilateral)
+
+Rx:     radical excision ± adjuvant radiation therapy
+
+> source_documents\Bydder FRCR Part A.pdf, page 307/382:
+MRI, may have which of the following appearances?
+a. type I – high T1W and low T2W signal
+b. type I – low T1W and low T2W signal
+c. type II – high T1W and high T2W signal
+d. type II – low T1W and high T2W signal
+e. type II – high T1W and low T2W signal
+Module 6: Central Nervous System and Head & Neck: Questions
+297
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+√  heterogeneous high SI on T2WI
+
+Spread:   liver + regional lymph nodes (35%); lung / brain
+(less common); omentum, cul-de-sac, colon, spleen, kidney, adrenal
+(rare)
+
+√  hyperattenuating liver metastases
+
+√  regional lymphadenopathy difficult to detect due to large
+displacing mass
+
+√  rarely vascular invasion
+
+DDx:   neuroblastoma, Wilms tumor, hepatoblastoma, NHL,
+solid-pseudopapillary tumor (adolescent girl)
+
+> source_documents\Afaq - Succeeding in the new FRCR Part 2A Exam.pdf, page 63/219:
+intermediate T1 and intermediate-high T2 signal with bone 
+marrow oedema. Which is the most likely diagnosis?
+ 
+A. Giant cell tumour
+ 
+B. 
+Fibrous dysplasia
+ 
+C. 
+Enchondroma
+ 
+D. Osteoblastoma
+ 
+E. 
+Aneurysmal bone cyst
+A 65-year-old woman falls down a flight of stairs. On examination she complains of numbness and is suspected to have sustained a spinal cord injury. An MRI of her spine is performed and you are reviewing the images. Which of following spinal nerves is NOT correctly matched with its corresponding dermatome? Select ONE answer only.
+A. C8 – The middle finger
+B. S4, S5 – The perianal region
+C. S3 – The ischial tuberosity area
+D. C5 – The area over the deltoid
+E. T12 – The symphysis pubis
+pGPT ans: I'm sorry, but the provided context does not contain information about the dermatomes of specific spinal nerves.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 74/382:
+the axial plane. What is the most likely disorder affecting the
+vertebra?
+a. aneurysmal bone cyst
+b. osteoid osteoma
+c. haemangioma
+d. compression fracture
+e. osteopoikilosis
+32) A young man complains of early morning back pain and stiffness,
+and undergoes plain radiographs followed by MRI of the whole
+spine. Which single feature is most likely to suggest a diagnosis of
+psoriatic arthritis over ankylosing spondylitis?
+a. syndesmophytes
+b. parasyndesmophytes
+c. asymmetrical sacroiliitis
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 108/161:
+medulla in the proximal tibia. No periosteal reaction seen. On MRI, the lesion 
+returns low signal on T1 and T2. 
+The most likely diagnosis is?
+(a) Chondromyxoid fibroma
+(b) Non-ossifying fibroma
+(c) Intraosseous ganglion
+(d) Brodie’s abscess
+(e) Simple bone cyst
+14. A 6-year-old girl presents with ongoing back pain. Radiograph of the spine shows a 
+flattened sclerotic T6 vertebral body with normal adjacent discs. 
+What is the most likely diagnosis?
+(a) Trauma
+(b) Tuberculosis
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+Sites:  T11-12
+
+√  calcification of disk fragments + parent disk (frequent)
+
+Lumbar Disk Herniation
+
+sciatica =
+
+(1)  Stiffness in back
+
+(2)  Pain radiating down to thigh / calf / foot
+
+(3)  Paresthesia / weakness / reflex changes
+
+pain exaggerated by coughing, sneezing, physical activity + worse
+while sitting / straightening of leg
+
+Sites:  L4-5 (35%) > L5/S1 (27%) > L3-4 (19%) >
+L2-3 (14%) > L1-2 (5%)
+
+DIASTEMATOMYELIA
+
+=  SPLIT CORD = MYELOSCHISIS [diastema, Greek = slit,
+cleft]
+
+> source_documents\Lindsay FRCR 2A.pdf, page 70/315:
+with associated paraesthesia. An MRI is requested, suspecting brachial 
+plexus injury. What ﬁ nding is most suggestive of nerve root avulsion?
+A. Pseudomeningocoele.
+B. Intradural nerve root enhancement.
+C. Spinal cord T2WI hyperintensity.
+D. T2WI hyperintensity within the paraspinal muscles.
+E. Thickening of the brachial plexus.
+21. A 54-year-old man presents with a swelling in his right popliteal fossa. A 
+Baker’s cyst is suspected clinically and an ultrasound scan is arranged. This
+A 62-year-old lady complains to her GP of tenesmus. On examination there is a palpable mass but subsequent proctoscopy is normal. She undergoes an MRI which shows a 6cm mass posterior to the rectum which is of low signal on T1 and returns high signal on T2. On closer inspection it is contained within the mesorectum. Which of the following would best fit with these findings?
+A. Tailgut cyst
+B. Rectal cancer
+C. Tarlov cyst
+D. Diverticular disease
+E. Cystocoele
+pGPT ans: I'm sorry, but the provided context does not contain enough information to accurately answer this question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 67/161:
+in the abdominal wall. CT shows a soft tissue mass with ill-defined margins in the 
+rectus muscle showing mild contrast enhancement. On MRI, the lesion returns low 
+signal on T1 and T2. 
+What is the most likely diagnosis?
+(a) Desmoid 
+(b) Metastasis
+(c) Haematoma
+(d) Seroma
+(e) Lymphoma
+39. A 50-year-old woman with a history of complicated appendix surgery in the 
+past presents with abdominal pain and distension. CT shows diffuse cystic
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+difficult to diagnose on physical examination
+
+Cystocolpoproctography:
+
+◊  fails to demonstrate up to 20% of enteroceles
+
+MR:  superior to cystocolpoproctography
+
+Rx:  requires peritoneal approach to surgical repair
+
+Sigmoidocele
+
+Evacuation Proctography:
+
+√  prolapse of sigmoid colon between rectum and vagina
+
+Grading:   (1) above pubococcygeal line; (2) between
+pubococcygeal + ischiococcygeal line; (3) below ischiococcygeal line
+
+Cx:  obstruction of rectum
+
+Peritoneocele
+
+=  MESENTEROCELE
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 575/2218:
+580
+SECTION B Abdominal Imaging
+B
+A
+Fig. 22.26 Axial T2 Weighted Magnetic Resonance Through a Mid-
+Rectal Cancer. The normal low-signal muscularis propria (arrowheads) 
+is intact on the left but breached by intermediate signal tumour (arrow) 
+between 8 and 9 o’clock, indicating T3 disease. The tumour is well 
+away from the circumferential resection margin (A). Conversely, (B) 
+shows a different patient, with tumour abutting the resection margin.
+
+> source_documents\Bydder FRCR Part A.pdf, page 245/382:
+abdominal mass during a routine examination. He is otherwise
+well. A plain abdominal radiograph demonstrates a well-deﬁned,
+dense mass containing multiple calciﬁcations in the right lower
+quadrant. What is the most likely diagnosis?
+a. neuroblastoma
+b. duplication cyst
+c. meconium peritonitis
+d. meconium ileus
+e. Hirschsprung’s disease
+4) A 3-year-old child with aniridia is found to have a palpable abdom-
+inal mass. The mass is shown to arise from a kidney and to contain
+A 32-year-old lady attends A+E having recently arrived back from a holiday in Jamaica. She complains that her ankles and calves are very swollen, she has abdominal pain and her liver function tests are deranged. An ultrasound scan shows ascites and hepatomegaly. The portal veins appear normal on B-mode but a Doppler study shows increased pulsatility. What is the diagnosis?
+A. Hepatic veno-occlusive disease
+B. Acute Budd-Chiari syndrome
+C. Primary biliary cirrhosis
+D. Passive hepatic congestion
+E. Viral hepatitis
+pGPT ans: I'm sorry, but the information provided does not give enough detail to definitively diagnose the condition. The symptoms could potentially indicate several of the listed conditions. Further tests would be needed to confirm a diagnosis.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 140/382:
+45) A 35-year-old woman on the oral contraceptive pill presents with
+right upper quadrant pain, shortness of breath and leg oedema.
+Ultrasound scan of the abdomen demonstrates hepatosplenomegaly
+and ascites. The hepatic veins are not visualized on Doppler
+ultrasound scan. What is the most likely diagnosis?
+a. acute Budd–Chiari syndrome
+b. primary biliary cirrhosis
+c. passive hepatic congestion
+d. hepatic veno-occlusive disease
+e. viral hepatitis
+
+> source_documents\Bydder FRCR Part A.pdf, page 146/382:
+b. B-ring
+c. Z-line
+d. oesophageal vestibule
+e. gastro-oesophageal junction
+72) A 45-year-old woman undergoes abdominal ultrasound scan. The
+portal vein measures 16 mm in diameter and demonstrates continu-
+ous monophasic ﬂow without respiratory variation. Portal vein ﬂow
+velocity is hepatopetal and is measured to be 7 cm/s. What is the
+most likely diagnosis?
+a. normal ﬁndings
+b. Budd–Chiari syndrome
+c. portal hypertension
+d. cavernous transformation of the portal vein
+e. portal vein thrombosis
+
+> source_documents\Lindsay FRCR 2A.pdf, page 120/315:
+the hepatic veins and inferior vena cava (IVC), ascites and bibasal pleural 
+effusions. What additional feature would favour a diagnosis of passive 
+hepatic congestion instead of acute Budd–Chiari syndrome?
+A. Flip-ﬂ op enhancement pattern of the liver.
+B. Absent ﬂ ow in hepatic veins.
+C. Dilated hepatic veins and IVC.
+D. Enlarged caudate lobe.
+E. Hepatomegaly.
+31. A 47-year-old male patient undergoes an MRI examination for further
+
+> source_documents\Lindsay FRCR 2A.pdf, page 141/315:
+dilated IVC and hepatic veins is seen in the arterial phase. In the portal venous phase, there is 
+delayed/reduced enhancement of the hepatic veins due to impaired venous drainage. There is 
+heterogenous enhancement of the liver parenchyma due to venous stasis. Other features of 
+cardiac failure may be evident. 
+Acute Budd–Chiari syndrome is characterized by narrowed hepatic veins and intrahepatic IVC 
+(secondary to compression by the enlarged liver) and by ﬂ ip-ﬂ op pattern of enhancement
+A 30-year-old young man undergoes a barium enema which shows that the rectum is straightened, with elevation of the recto-sigmoid junction. The presacral space is also widened. Which of the following is a cause of widening of the presacral space? Select ONE answer only.
+A. Meningocoele
+B. Tarlov cyst
+C. Chemotherapy
+D. Vertebral haemangioma
+E. Paget's disease
+pGPT ans: I'm sorry, but the provided context does not contain information on what could cause a widening of the presacral space.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1797/2218:
+and the sigmoid colon is shortened. The rectal wall is irregular and narrowed. (B) Supine anteroposterior 
+view contrast enema. There is an abrupt calibre change at the junction of the descending and sigmoid colon. 
+Features are in keeping with short-segment Hirschsprung disease. 
+Fig. 71.13 Functional Immaturity of the Colon. Small-calibre distal 
+colon with an abrupt transition to dilated proximal colon at the splenic 
+flexure (arrow). Note that the rectosigmoid ratio is normal and therefore
+
+> source_documents\[Crack the core Volume 1] Prometheus Lionhart.pdf, page 263/572:
+esophageal obstruction (or narrowing). This occurs 
+from either post op edema, or a wrap made too tight.
+You see this peak around week 2. Barium will show 
+total or near total obstruction of the esophagus.
+Failure: There are two main indications for the procedure (1) hiatal hernia, and (2) reflux. So 
+failure is defined by recurrence of either of these. The most common reason for recurrent reflux is 
+telescoping of the GE junction through the wrap - or a “slipped Nissen.”
+
+> source_documents\Bydder FRCR Part A.pdf, page 183/382:
+manifests as a narrowed, thickened, poorly distensible rectum, with
+proliferation of the perirectal fat and thickening of the perirectal fascia.
+There is an increased incidence of colorectal carcinoma following pelvic
+irradiation, but a short irregular segment of narrowing would be more
+likely. Inﬂammatory bowel disease may result in circumferential rectal
+wall thickening with widening of the presacral space but is less likely
+given this history. Hirschsprung’s disease usually presents in early
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1796/2218:
+or, worse, perforate the stiff, aganglionic bowel. The most important 
+image is a lateral (or oblique) view of the rectum during slow filling (Fig. 
+71.12 and 71.28). In short-segment disease, the rectum will be narrow 
+and there will be a cone-shaped transition zone to the more proximal 
+dilated ganglionated bowel. Irregular contractions may be seen in the 
+denervated rectum. A useful calculation is the rectosigmoid ratio; the
+Which of the following is NOT an indication for contrast enhanced ultrasound? Select ONE answer only.
+A. Liver lesion seen on CT in the superior aspect of segment VII
+B. Hypoechoic liver lesion in the left lobe
+C. Target lesion seen in the inferior aspect of segment V
+D. Hypoechoic lesion in segment VI
+E. Hyperenhancing lesion seen on CT in segment VI
+pGPT ans: The context provided does not contain information needed to answer this question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 116/161:
+seen. There is heterogeneous enhancement of the lesion with contrast.
+What is the most likely diagnosis?
+(a) Hepatoblastoma
+(b) Hepatocellular carcinoma
+(c) Hepatic adenoma
+(d) Hemangioendothelioma
+(e) Metastases
+
+> source_documents\Bydder FRCR Part A.pdf, page 167/382:
+demonstrate transient arterial enhancement following intravenous
+contrast.
+Da¨hnert (2007), 713–15, 719–20.
+39) d. ���
+Acute hepatitis results in a diffuse decrease in liver echogenicity on
+ultrasound scan, with increased brightness of the portal triads resulting
+in a ‘starry sky’ appearance. Other imaging features include oedema of
+the gallbladder fossa and gallbladder wall thickening. Gallbladder wall
+thickening (anterior wall thickness .3mm in a non-contracted
+
+> source_documents\Bydder FRCR Part A.pdf, page 130/382:
+which the liver is incidentally noted to be of diffusely increased
+echogenicity, with attenuation of the ultrasound beam and
+poor visualization of the intrahepatic architecture. Which of the
+following imaging features is most likely in this condition?
+a. liver echogenicity less than that of renal cortex on ultrasound scan
+b. relatively hypoattenuated intrahepatic vessels on unenhanced CT
+c. liver attenuation 10 HU greater than that of the spleen on
+unenhanced CT
+
+> source_documents\Afaq - Succeeding in the new FRCR Part 2A Exam.pdf, page 99/219:
+C. 
+Oral contrast is helpful in most cases
+ 
+D. Intravenous (IV) contrast should be avoided
+ 
+E. 
+CT fistulography has a greater temporal resolution
+43. 
+A 42-year-old woman is being investigated following a new 
+diagnosis of hepatitis C. Which of the following would have 
+the highest accuracy in the characterization of a focal liver 
+lesion in this patient?
+ 
+A. Ultrasound
+ 
+B. 
+Doppler ultrasound
+ 
+C. 
+Microbubble contrast enhanced ultrasound (CEUS)
+ 
+D. Combined US and AFP
+ 
+E.
+A 45-year-old lady is being investigated for atypical chest pains which she has been experiencing for the last two months. She is worried as she has a strong family history of heart problems. She undergoes a 24-hour ECG which is normal, but an exercise ECG shows some lateral T-wave inversion. An Adenosine stress MRI is planned for further evaluation. Which of the following is NOT a contra-indication to Adenosine stress MRI? Select ONE answer only.
+A. Hypotension 100/60mmHg
+B. Severe aortic stenosis
+C. Gastric pacemaker
+D. Uncontrolled atrial fibrillation
+E. Bronchospasm
+pGPT ans: The context does not provide information on which of the listed options is NOT a contra-indication to Adenosine stress MRI.
+
+
+
+> source_documents\Lindsay FRCR 2A.pdf, page 34/315:
+D. Lateral meningocele.
+E. Neuro-enteric cyst.
+64. A 45-year-old woman presents with chest pain, typical of angina. Her 
+ECG and troponin are normal. She is a non-smoker and does not have 
+hypertension or diabetes. Her resting heart rate is 56 beats per minute 
+(bpm). To best assess her further, what do you decide to perform next?
+A. CT calcium score.
+B. Exercise stress testing.
+C. Contrast enhanced cardiac MRI.
+D. Retrospectively ECG-gated CT coronary angiography.
+
+> source_documents\Bydder FRCR Part A.pdf, page 15/382:
+10) A 55 year old presents with chest pain. His blood tests show a mild
+troponin rise, but an ECG is normal. A chest radiograph shows
+bilateral, symmetrical, hilar adenopathy but no other abnormality.
+Which feature on cardiac MRI would make cardiac sarcoid a more
+likely diagnosis than ischaemia secondary to coronary artery
+disease?
+a. delayed hyperenhancement of lateral wall
+b. full-thickness, abnormal, high T2 signal in lateral wall
+c. reduced inferior wall motility
+
+> source_documents\Bydder FRCR Part A.pdf, page 209/382:
+tension and tachycardia. In this scenario, which of the following
+is most likely to account for the presentation?
+a. torsion of the angiomyolipoma
+b. haemorrhage from the angiomyolipoma
+c. rupture of the angiomyolipoma
+d. leak from the non-aneurysmal abdominal aorta
+e. nephroptosis
+72) A postmenopausal woman is found on MRI to have a multicystic
+adnexal mass that contains ﬂuid–ﬂuid levels and does not
+show any fat suppression. In addition, her uterus shows a
+
+> source_documents\Bydder FRCR Part A.pdf, page 34/382:
+85) A 62-year-old male presents with increasing shortness of breath.
+Clinically, he has oedematous ankles, raised central venous
+pressure, ascites and hepatomegaly. Blood tests show mildly
+raised inﬂammatory markers. Which feature on CT would make
+restrictive cardiomyopathy a more likely diagnosis than constrictive
+pericarditis?
+a. dilated inferior vena cava
+b. pleural effusions
+c. normal pericardial thickness
+d. pericardial calciﬁcation
+e. previous coronary artery surgery
+A 33-year-old lady being investigated for primary infertility is found to have a solitary ovarian lesion on transvaginal ultrasound scanning. It has an anechoic centre and demonstrates peripheral vascularity on colour Doppler flow. A βHCG urine test performed the same day was negative. What is the most likely diagnosis?
+A. Corpus luteum cyst
+B. Mature teratoma
+C. Yolk sac tumour
+D. Endometrioma
+E. Leydig-Sertoli tumour
+pGPT ans: I'm sorry, but without additional context or information, I can't definitively determine the most likely diagnosis.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 91/161:
+presents for ultrasound examination. A transvaginal ultrasound demonstrates 
+bilateral enlarged ovaries with multiple hypoechoic cysts, ringed in the periphery 
+of the ovaries measuring 5–10 mm in size. 
+What is the most likely diagnosis?
+(a) Endometriosis
+(b) Stein–Leventhal syndrome
+(c) Ovarian dermoids
+(d) Tubo-ovarian abscesses
+(e) Brenner tumours
+36. A 36-year-old woman with primary infertility was sent for hysterosalpingography.
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 84/161:
+shows a large loculated cystic lesion in the lower abdomen, arising from the pelvis. 
+Transvaginal scan shows a right side complex mass in the adnexa with cystic and 
+solid components. The solid components show blood flow with a low-resistive 
+index. 
+What is the most likely diagnosis?
+(a) Ovarian dermoid
+(b) Endometrioma
+(c) Ovarian carcinoma
+(d) Tubo-ovarian abscess
+(e) Mature teratoma
+15. A 36-year-old woman with history of previous miscarriage treated by
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 83/161:
+Genitourinary system, adrenal gland, obstetrics and gynaecology, and breast
+78
+9. A 23-year-old woman presents with recurrent cyclical lower abdominal pain. 
+Ultrasound shows a 4 cm heterogenous cystic mass in the pelvis related to the 
+left ovary. On MRI, the lesion has predominantly high signal on T1, T2 and STIR 
+sequences. 
+What is the most likely diagnosis?
+(a) Metastasis
+(b) Krukenberg tumour
+(c) Ovarian dermoid
+(d) Endometrioma
+(e) Ectopic pregnancy
+
+> source_documents\Lindsay FRCR 2A.pdf, page 249/315:
+On ultrasound, an enlarged ovary is the most constant ﬁ nding. The enlarged ovary may be 
+heterogenous due to haemorrhage and oedema. Other ﬁ ndings include multiple small cysts 
+aligned in the periphery of the enlarged ovary (string of pearls sign), coexistent mass, pelvic 
+free ﬂ uid, and twisted ovarian pedicle. Benign cystic teratoma is the most common tumour 
+predisposed to ovarian torsion. 
+Absent arterial ﬂ ow is described as the classic colour Doppler ﬁ nding. However, the most
+A 55-year-old man complains to his GP of pain in both wrists. Bilateral x-rays of the wrist are requested which show soft tissue swelling to the second and third digits with marginal erosions and periosteal new bone formation.  Which additional feature would be most likely in this case? Select ONE answer only.
+A. Salmon pink rash
+B. Petechiae
+C. Conjunctivitis
+D. Port-wine stain
+E. Erythema multiforme
+pGPT ans: The text doesn't provide information to answer this question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 370/382:
+information. Radiographics 2004; 24: 507–22.
+Goldfarb CA, Yin Y, Gilula LA, et al. Wrist fractures: what the clinician
+wants to know. Radiology 2001; 219: 11–28
+Goswami GK. Signs in imaging. The fat pad sign. Radiology 2002; 222:
+419–20.
+Greenﬁeld GB, Warren DL, Clark RA. MR imaging of periosteal and cor-
+tical changes of bone. Radiographics 1991; 11: 611–23.
+Grossman RI, Yousem DM. Neuroradiology: The requisites, 2nd edn.
+Philadelphia: Mosby, 2003.
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 45/161:
+(e) Flexion teardrop fracture
+44. A 15-year-old boy presents with pain and swelling in the hands. Radiographs show 
+periarticular osteopenia, loss of joint space at the metacarpophalangeal joints 
+and widened bases in the proximal phalanges. A periosteal reaction is seen in the 
+metacarpal bones.
+What is the most likely diagnosis?
+(a) Juvenile rheumatoid arthritis
+(b) Psoriatic arthropathy
+(c) Scleroderma
+(d) Systemic lupus erythematosus
+(e) Dermatomyositis
+
+> source_documents\Bydder FRCR Part A.pdf, page 70/382:
+e. dorsal intercalated segmental instability
+15) On plain radiographs of the hands in a middle-aged male patient
+complaining of bilateral joint pain and swelling, which single
+feature is most likely to support a diagnosis of psoriatic arthritis
+over rheumatoid arthritis?
+a. new bone formation
+b. joint space loss
+c. periarticular osteoporosis
+d. periarticular erosions
+e. soft-tissue swelling
+Module 2: Musculoskeletal and Trauma: Questions
+60
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 115/161:
+Paediatrics
+110
+35. A 4-year-old immigrant child from Africa with growth failure presents with wrist 
+pain. Radiograph show osteopenic bones with metaphyseal cupping and fraying of 
+the distal radius and widening of the epiphyseal plate. 
+What is the most likely diagnosis?
+(a) Scurvy
+(b) Rickets
+(c) Battered baby syndrome
+(d) Osteopetrosis
+(e) Juvenile rheumatoid arthritis
+36. A 13-year-old obese boy of African origin presents with right hip pain. The
+A 23-year-old lady is admitted to the gynaecology ward via A+E having presented with fevers and acute pelvic pain. Her inflammatory markers are raised but she is initially thought to have a ureteric calculus and undergoes a CT KUB. No radio-opaque calculus is seen but the radiologist reports that the gynaecological organs do not appear normal. She subsequently undergoes a transvaginal ultrasound scan which shows an enlarged uterus containing an IUCD with an apparent soft tissue mass sitting anterior to the uterus and invading the bladder. The adnexae are poorly demonstrated. Of the following, which is the most likely diagnosis?
+A. Actinomycosis
+B. Tuberculosis
+C. Pseudomyxoma peritonei
+D. Gonorrhoeal pelvic inflammatory disease
+E. Indinavir phosphate calculus
+pGPT ans: I'm sorry, but the provided context does not contain enough information to answer this question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 80/161:
+(d) Peripheral zone lesion with low signal on T2
+(e) Peripheral zone lesion with low signal proton density
+2. A 50-year-old woman presents with intermittent pelvic pain. Ultrasound shows 
+a cystic mass in the adnexa. This contains a hyperechoic nodule which produces 
+marked acoustic shadowing. CT shows a fat containing lesion in the pelvis with a 
+fluid level and a small calcified nodule. 
+What is the most likely diagnosis?
+(a) Ovarian dermoid
+(b) Liposarcoma
+(c) Tubo-ovarian abscess
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 82/161:
+The most likely diagnosis is?
+(a) Medullary nephrocalcinosis
+(b) Renal cortical necrosis
+(c) Papillary necrosis
+(d) Acute pyelonephritis
+(e) Acute interstitial nephritis
+8. A 35-year-old Asian woman presents with lower abdominal pain and fever. 
+Transvaginal ultrasound shows bilateral, homogenous, extraovarian, tubular 
+lesions containing fluid with featureless walls. 
+What is the most likely diagnosis?
+(a) Cystic ovarian tumour
+(b) Chocolate cysts
+(c) Bilateral hydrosalpinx
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 84/161:
+shows a large loculated cystic lesion in the lower abdomen, arising from the pelvis. 
+Transvaginal scan shows a right side complex mass in the adnexa with cystic and 
+solid components. The solid components show blood flow with a low-resistive 
+index. 
+What is the most likely diagnosis?
+(a) Ovarian dermoid
+(b) Endometrioma
+(c) Ovarian carcinoma
+(d) Tubo-ovarian abscess
+(e) Mature teratoma
+15. A 36-year-old woman with history of previous miscarriage treated by
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 84/161:
+Questions
+79
+13. A 38-year-old woman presents with painless bleeding per-vagina. MRI shows a 
+2 cm lesion in the cervix which is isointense on T1, hyperintense compared to 
+cervical stroma on T2 and shows contrast enhancement. 
+What is the most likely diagnosis?
+(a) Prolapsed submucosal fibroid
+(b) Cervical fibroid
+(c) Cervical carcinoma
+(d) Nabothian cyst
+(e) Endometrial polyp
+14. A 60-year-old woman presents with progressive abdominal swelling. Ultrasound
+A 66-year-old man is admitted to ITU following complications during his recent coronary artery bypass grafting. He is intubated and ventilated but his doctors notice abdominal distension and elevation of his inflammatory markers and arterial blood sampling shows elevation of his serum lactate. He undergoes a CT scan which shows mucosal hyperenhancement and thumbprinting of the transverse colon and splenic flexure. Which of the following is the most likely explanation for these findings?
+A. Hypotension
+B. Superior mesenteric artery thrombus
+C. Inferior mesenteric artery thrombus
+D. Coeliac axis stricture
+E. Internal iliac artery stricture
+pGPT ans: The context does not provide enough information to answer this question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 257/382:
+50) A 14-year-old girl is admitted following trauma and undergoes CT
+of the abdomen and pelvis. The large bowel is incidentally noted to
+lie on the left side of the abdomen, with the small intestine on the
+right. The superior mesenteric artery lies to the right of the superior
+mesenteric vein. What is the most likely diagnosis?
+a. normal appearances
+b. non-rotation
+c. malrotation
+d. reversed rotation
+e. midgut volvulus
+51) A 12-year-old girl presents with altered sensation in the upper and
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 469/2218:
+abdominal pain, followed by bloody diarrhoea. The splenic flexure and 
+proximal descending colon are most often involved, and an explanation 
+for development of ischaemia in this distribution is that this section 
+of colon is located at a ‘watershed’ between arterial supply from the 
+superior and inferior mesenteric arteries. The wall, particularly the 
+submucosa of the colon, is thickened as a result of haemorrhage and 
+oedema. This can sometimes be detected on plain radiographs, but in
+
+> source_documents\Bydder FRCR Part A.pdf, page 132/382:
+13) A 65-year-old man presents with a several-week history of lower
+abdominal pain and diarrhoea. On examination he has tenderness
+and guarding in the left lower quadrant. On contrast-enhanced
+CT, the inferior mesenteric vein is dilated, with a thin rim of
+enhancement around a central area of low density. What is the
+most likely additional pathology demonstrated on the CT?
+a. sigmoid diverticulitis
+b. appendicitis
+c. Crohn’s disease
+d. pancreatitis
+e. caecal malignancy
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 2034/2218:
+ing plaque. Other causes include vasculitis and malrotation. Acute 
+mesenteric ischaemia leads to mediator release, severe inflammation 
+and early infarction and is characterised by abdominal pain out of 
+proportion to physical findings. Clinical diagnosis is difficult, and 
+diagnosis hinges on CT (performed for severe abdominal pain when 
+the diagnosis is not queried clinically) and CTA (when suspected 
+clinically) where an SMA filling defect confirms the diagnosis. However,
+A 12-year-old boy undergoes a contrast enhanced CT chest for further investigation of an anterior mediastinal mass which was found on a chest radiograph. The mass is large with a lobulated outline, but with no invasion of adjacent structures. There are enlarged lymph nodes in the included cervical chains. There is no calcification, fat or haemorrhage within the mass. What is the most likely diagnosis? Select ONE answer only.
+A. Lymphoma
+B. Normal thymus
+C. Germ cell tumour
+D. Duplication cyst
+E. Askin Tumour
+pGPT ans: I don't know.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 86/2218:
+tend to be small and enhance homogeneously. Often, the CT is used 
+in conjunction with 99mTc-sestamibi imaging (Fig. 4.3).
+TABLE 4.2 Approach to Mediastinal Masses with the ITMIG Classification of Mediastinal 
+Masses
+Lesions
+Fluid
+Fat
+Vascular
+Prevascular
+Thymoma
+Lymphoma
+Germ-cell tumour
+Goitre
+Thymic cyst
+Thymoma
+Pericardial cyst
+Germ-cell tumour
+Lymphoma
+Germ-cell tumour
+Thymolipoma
+Fat pad
+Morgagni hernia
+Intrathoracic goitre
+Visceral
+Lymph nodes
+Duplication cyst
+Arch anomaly
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 85/2218:
+proceeding to a chest CT examination.
+Anterior mediastinal masses can be identified when both the hilum 
+overlay sign and preservation of the posterior mediastinal lines are 
+present. Widening of the right paratracheal stripe and convexity relative 
+to the anteroposterior (AP) window reflection both indicate abnormality 
+TABLE 4.1 Approach to Mediastinal Masses by Location and Tissue Characterisation on CT 
+or MR Classification of Mediastinal Masses
+Lesions
+Fluid
+Fat
+Vascular
+Anterior
+Thymoma
+
+> source_documents\Bydder FRCR Part A.pdf, page 29/382:
+67) A 20 year old presents with shortness of breath and cough. A chest
+radiograph shows a well-deﬁned right hilar mass. CT shows a 4 cm,
+rounded, soft-tissue mass arising from the mediastinum adjacent to
+the right side of the carina. The attenuation value of the lesion is
+10 HU. No other abnormal ﬁndings are seen. What is the most
+likely diagnosis?
+a. bronchogenic cyst
+b. pericardial cyst
+c. carcinoid tumour
+d. lymphoma
+e. bronchogenic carcinoma
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 17/161:
+anterior mediastinum. The lesion shows heterogenous enhancement on CT with 
+punctate calcifications. On MRI, the lesion is isointense to muscle, with cystic 
+components and hyperintense on T2. 
+What is the most likely diagnosis?
+(a) Thymolipoma
+(b) Thymoma
+(c) Lymphoma
+(d) Thymic carcinoma
+(e) Metastasis
+A 67-year-old man is admitted following a stroke. He undergoes an MRI scan which shows high DWI signal and low ADC in the fronto-parietal lobe as well as high DWI and high ADC signal in the medial posterior temporal lobe.  Which of the following combinations best explains these findings?
+A. Acute MCA and old PCA infarct
+B. Acute PCA infarct and old ACA infarct
+C. Acute PCA infarct and old MCA infarct
+D. Acute ACA infarct and old MCA infarct
+E. Acute MCA infarct and old ACA infarct
+pGPT ans: I'm sorry, but without additional context or information, I can't provide an accurate answer to your question.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 134/161:
+(e) Acute otitis media
+15. A 70-year-old male with a low score on the Glasgow coma scale is admitted to 
+a medical assessment unit. MRI shows a large area in the left MCA distribution 
+returning high signal on diffusion-weighted images and low signal in the 
+corresponding area on the ADC map.
+The most likely diagnosis is?
+(a) Acute cerebral infarct
+(b) Old cerebral infarct
+(c) 14-day-old cerebral infarct
+(d) 7-day-old cerebral infarct
+(e) Superior sagittal sinus thrombosis
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 141/161:
+Central nervous system, and head and neck
+136
+34. A 75-year-old woman presents with sudden onset left homonymous superior 
+quadrantanopia. Head CT shows a subtle hypointensity in the right medial 
+occipital lobe. On MRI, the occipital region shows high signal on FLAIR. Diffusion-
+weighted images show high signal in the right medial occipital lobe consistent with 
+reduced diffusion. 
+What is the most likely diagnosis?
+(a) Acute occipital lobe infarct in posterior cerebral artery territory
+
+> source_documents\Bydder FRCR Part A.pdf, page 317/382:
+43) A patient with multiple previous ischaemic strokes has an MRI
+including T2W and DWI sequences. In the left frontal lobe, there
+is a region of increased T2 signal. The same area is dark on
+the DWI and bright on the ADC map. Which of the following is
+the most likely age of this region of ischaemia?
+a. 10 minutes
+b. 30 minutes
+c. 3 days
+d. 2 weeks
+e. 4 months
+44) A 62-year-old male patient presents with a mass in the right side of
+
+> source_documents\Bydder FRCR Part A.pdf, page 314/382:
+34) An unenhanced CT scan of the brain is performed 3 hours after the
+onset of signs suggestive of ischaemic stroke. Which of the follow-
+ing image window parameters is most likely to reveal the early CT
+changes?
+a. width 400 HU, centre 40 HU
+b. width 80 HU, centre 20 HU
+c. width 8 HU, centre 32 HU
+d. width 0 HU, centre 0 HU
+e. width 1500, centre –500 HU
+35) A 9-month-old boy presents to the paediatric neurologist with
+general developmental delay, left-sided weakness from birth and
+A 12-year-old boy undergoes a contrast enhanced CT chest for further investigation of a middle mediastinal mass which was found on a chest radiograph. The mass is large with a smooth outline, but with no invasion of adjacent structures. It measures 9 HU and contains no calcification, fat or haemorrhage. What is the most likely diagnosis? Select ONE answer only.
+A. Duplication cyst
+B. Normal thymus
+C. Lymphoma
+D. Germ Cell Tumour
+E. Askin Tumour
+pGPT ans: I'm sorry, but the provided context does not contain enough information to definitively answer your question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 29/382:
+67) A 20 year old presents with shortness of breath and cough. A chest
+radiograph shows a well-deﬁned right hilar mass. CT shows a 4 cm,
+rounded, soft-tissue mass arising from the mediastinum adjacent to
+the right side of the carina. The attenuation value of the lesion is
+10 HU. No other abnormal ﬁndings are seen. What is the most
+likely diagnosis?
+a. bronchogenic cyst
+b. pericardial cyst
+c. carcinoid tumour
+d. lymphoma
+e. bronchogenic carcinoma
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 86/2218:
+tend to be small and enhance homogeneously. Often, the CT is used 
+in conjunction with 99mTc-sestamibi imaging (Fig. 4.3).
+TABLE 4.2 Approach to Mediastinal Masses with the ITMIG Classification of Mediastinal 
+Masses
+Lesions
+Fluid
+Fat
+Vascular
+Prevascular
+Thymoma
+Lymphoma
+Germ-cell tumour
+Goitre
+Thymic cyst
+Thymoma
+Pericardial cyst
+Germ-cell tumour
+Lymphoma
+Germ-cell tumour
+Thymolipoma
+Fat pad
+Morgagni hernia
+Intrathoracic goitre
+Visceral
+Lymph nodes
+Duplication cyst
+Arch anomaly
+
+> source_documents\Bydder FRCR Part A.pdf, page 35/382:
+89) A 20-year-old male has a chest radiograph following a slow-to-
+resolve chest infection. There is a mass arising from the mediasti-
+num on the right side. Teratoma is suspected. Which feature on
+CT would suggest that the lesion is more likely to be benign?
+a. lobulated margin
+b. calciﬁcation
+c. pleural effusion
+d. pericardial effusion
+e. mass projecting from both sides of the mediastinum
+90) An 82-year-old man has known renal cell carcinoma, which is inop-
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 85/2218:
+proceeding to a chest CT examination.
+Anterior mediastinal masses can be identified when both the hilum 
+overlay sign and preservation of the posterior mediastinal lines are 
+present. Widening of the right paratracheal stripe and convexity relative 
+to the anteroposterior (AP) window reflection both indicate abnormality 
+TABLE 4.1 Approach to Mediastinal Masses by Location and Tissue Characterisation on CT 
+or MR Classification of Mediastinal Masses
+Lesions
+Fluid
+Fat
+Vascular
+Anterior
+Thymoma
+A 51-year-old man presents with atypical chest pain. He undergoes a cardiac CT for further investigation. Which of the following is most likely to contribute to motion artefact?
+A. Irregular heart rhythm
+B. In-situ pacemaker
+C. High density contrast in the right atrium
+D. Short detector row CT
+E. Misregistration of anatomical landmarks
+pGPT ans: I'm sorry, but the provided context does not contain information to answer your question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 34/382:
+85) A 62-year-old male presents with increasing shortness of breath.
+Clinically, he has oedematous ankles, raised central venous
+pressure, ascites and hepatomegaly. Blood tests show mildly
+raised inﬂammatory markers. Which feature on CT would make
+restrictive cardiomyopathy a more likely diagnosis than constrictive
+pericarditis?
+a. dilated inferior vena cava
+b. pleural effusions
+c. normal pericardial thickness
+d. pericardial calciﬁcation
+e. previous coronary artery surgery
+
+> source_documents\Lindsay FRCR 2A.pdf, page 36/315:
+CARDIOTHORACIC AND VASCULAR | QUESTIONS
+22
+69. A 25-year-old man presents with chest pain on exertion. He is referred 
+for CT coronary angiography. Which of the following ﬁ ndings is most 
+signiﬁ cant?
+A. The RCA arises from the left coronary sinus and passes between the aorta and 
+pulmonary artery.
+B. Separate ostia of the LAD and left circumﬂ ex (LCx) coronary arteries arise from the left 
+coronary sinus.
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 362/2218:
+Pericardial constriction may be occult in normal conditions, because 
+some patients develop symptoms only after a sudden water imbalance. 
+In other cases, myocardial constriction is related to the presence of 
+pericardial effusion.
+CT, unlike MRI, is very sensitive in demonstrating calcification of 
+the pericardium (see Fig. 14.87B and C). On MR, fibrous or calcified 
+pericardium is hypointense on T1 and T2 weighted images (Fig. 14.88) 
+and cine sequences.
+
+> source_documents\Bydder FRCR Part A.pdf, page 27/382:
+57) A 35-year-old man presents following a chest injury. A chest radio-
+graph shows a smooth, curvilinear, tubular opacity adjacent to the
+right heart border. No other abnormality is seen. The accident and
+emergency team are requesting a CT of the chest. What is the most
+likely diagnosis?
+a. pulmonary contusion
+b. pneumothorax
+c. pericardial injury
+d. extralobar sequestration
+e. partial anomalous pulmonary venous return
+58) In multidetector CT angiography of the lower limbs, the effects of
+A 54-year-old lady is diagnosed with a fibrotic lung condition on HRCT. Which of the following comparisons of NSIP and IPF is NOT correct?
+A. Patients with NSIP respond well to steroids
+B. NSIP patients are approximately 10 years younger than IPF patients
+C. NSIP is associated with smoking, IPF is not
+D. IPF has apicobasal gradient, NSIP is peripheral
+E. IPF has traction bronchiectasis, NSIP has no nodules
+pGPT ans: The text does not provide information to verify or refute all the statements.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 226/2218:
+210
+SECTION A The Chest and Cardiovascular System
+UIP’ pattern on HRCT reflects pathological probable or definite UIP 
+pattern in 82%–94% of cases. The estimate of the clinical probability 
+of IPF (e.g. age above 60 years, smoking history and no history of other 
+potential causes of fibrosis) must be integrated to assess the likelihood 
+of UIP in these patients.
+As opposed to the two aforementioned patterns associated with IPF,
+
+> source_documents\Afaq - Succeeding in the new FRCR Part 2A Exam.pdf, page 26/219:
+16
+Module 1: Cardiothoracic and vascular
+43. 
+Which of the following features detected on HRCT would 
+most favour NSIP rather than USIP?
+ 
+A. Predominant ground-glass opacification
+ 
+B. 
+Honeycombing
+ 
+C. 
+Predominant lower zone disease
+ 
+D. Traction bronchiectasis
+ 
+E. 
+Subpleural predominance
+44. 
+A 53-year-old male smoker is under evaluation for a thoracic 
+aortic aneurysm. Whilst reviewing pre- and post-contrast CT 
+images of the chest, a 2.4cm lesion is seen in the left lower
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 227/2218:
+CHAPTER 9 High-Resolution Computed Tomography of Interstitial and Occupational Lung Disease
+211
+Non-Specific Interstitial Pneumonia
+NSIP is characterised by varying degrees of interstitial inflammation 
+and fibrosis without the specific features that allow a diagnosis of UIP. 
+While NSIP may have significant fibrosis, it is usually temporally uniform 
+(in comparison with UIP), and fibroblastic foci and honeycombing are 
+absent or scanty. Although the clinical features of idiopathic NSIP
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 224/2218:
+• UIP pattern substantially overlaps the HRCT representation of chronic HP. 
+The differential is helped by the clinical context along with the interpretation 
+of findings distribution and presence of air trapping at expiratory HRCT.
+• NSIP pattern is mostly seen in patients with connective tissue disease or 
+in association with OP.
+• Smoking-related interstitial lung diseases encompass involvement of several 
+lung compartments with variable predominant components, therefore into
+A 75-year-old woman taking warfarin for AF falls and sustains a head injury. She undergoes a CT scan which shows an intraparenchymal haemorrhage. She is managed conservatively and later undergoes an MRI scan for follow up. Regarding the signal intensity of the blood, which of the following is INCORRECTLY matched to the likely findings? Select ONE answer only.
+A. Bright on T1 and isointense on T2 = Late subacute
+B. Isointense on T1 and bright on T2 = Hyperacute
+C. Iso on T1 and dark on T2 = Acute
+D. Dark on T1 and bright on T2 = Chronic
+E. Bright on T1 and dark on T2 = Early subacute
+pGPT ans: I'm sorry, but the provided context does not contain enough information to answer your question.
+
+
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 668/2218:
+infected or rupture and the imaging appearance depends on the time 
+after onset. Hyperacute (day 1) infarcts appear on US as decreased 
+echo-reflectivity areas with ill-defined margins and on unenhanced CT 
+ill-defined areas of decreased attenuation, although a heterogeneous 
+pattern of increased attenuation foci occurs in the case of haemorrhagic 
+infarcts. Acute (days 2–4) and subacute (days 4–8) infarcts appear as 
+wedge-shaped well-demarcated areas, which are hypoechoic but not
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 354/2218:
+appearance; heterogeneous signal intensity (T1 isointense, T2 hyperin-
+tense) originating from necrosis and intratumoural haemorrhage; 
+intralesional flow voids may be seen and reflect large vascular channels. 
+Homogeneous or heterogeneous strong enhancement, the last with a 
+sunray appearance, is common on enhanced MRI.
+On CT they appear as a heterogeneously enhancing mass. A high 
+attenuation pericardial effusion is frequent and caused by haemorrhage 
+A
+B
+D
+C
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 1437/2218:
+is displayed as a grey scale ‘image’ for ease of use. ‘Restricted diffusion’ 
+in acute infarcts returns high signal on DWI and appears dark on the 
+ADC map (Figs 56.9 and 56.10). Whilst DWI hyperintense areas (with 
+appropriate ADC hypointensity) are considered to and almost always 
+do represent areas of irreversible ischaemia, investigators have reported 
+that following early recanalisation with either IV agents or mechanical
+
+> source_documents\Bydder FRCR Part A.pdf, page 326/382:
+what signal characteristics would the region of haemorrhage
+return?
+a. isointense on T1W images and hyperintense on T2W images
+b. hyperintense on T1W images and hyperintense on T2W images
+c. isointense on T1W images and hypointense on T2W images
+d. hyperintense on T1W images and hypointense on T2W images
+e. hypointense on T1W images and a rim of hypointensity on T2W
+images
+80) A 24-year-old man is an unrestrained passenger in a car involved in
+A 7mm peripherally located fat density partly calcified lung lesion suspected to be a pulmonary hamartoma is being reviewed in the MDT. The patient is a known smoker.  What follow up should you recommend?
+A. None
+B. CT 3/12
+C. CT 6/12
+D. Biopsy
+E. CXR in 3/12
+pGPT ans: The text does not provide enough information to answer this question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 32/382:
+77) Which of the following descriptions would be most suggestive of a
+pulmonary hamartoma on imaging?
+a. round, 2 cm, soft-tissue mass with no calciﬁcation or fat, in a central
+location
+b. irregular, 8 cm mass with cavitation and associated effusion
+c. multiple lesions of 1–3 cm with calciﬁcation, throughout lungs
+d. lobulated, 3 cm mass with calciﬁcation and fat, in a peripheral location
+e. peripheral, 5 cm lesion with no calciﬁcation, and band-like opacity
+connecting it to the hilum
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 201/2218:
+and these lesions may also contain convincing evidence of internal fat 
+density. When fat is present in a lesion of less than 2.5 cm in diameter, 
+then, particularly if the lesion is PET negative, further evaluation is not 
+required, but most hamartomas do not demonstrate this helpful 
+characteristic. Calcification, which is eccentric or stippled within an 
+physician and reporting radiologist. The widely adopted Fleischner 
+Society Recommendations from 2005 have now been updated (2017)
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+◊  Air bronchogram in nodules of < 2 cm: in 65% malignant, in 5%
+benign
+
+√  bubblelike areas of low attenuation: bronchiolo-alveolar cell
+carcinoma (in 50%)
+
+(a)  CAVITATION
+
+√  a thin (≤ 4 mm) smooth wall is benign in 94%
+
+√  a thick (> 16 mm) irregular wall suggests malignancy
+
+(b)  Intranodular fat (–40 to –120 HU)
+
+◊  Fat is a reliable indicator of a hamartoma!
+
+√  fat density in up to 50% of hamartomas
+
+CALCIFICATION IN SOLITARY PULMONARY NODULE
+
+Sensitivities of HRCT > CT > CXR:
+
+> source_documents\Bydder FRCR Part A.pdf, page 25/382:
+50) A 56-year-old male presents with wheezing, cough and recurrent
+chest infections. A chest radiograph shows right middle lobe conso-
+lidation. CT of the chest shows a 3 cm mass arising within the right
+middle lobe bronchus with distal collapse and consolidation.
+Which feature of the mass would make hamartoma more likely
+than carcinoid?
+a. central location
+b. presence of calciﬁcation
+c. cavitation
+d. presence of fat
+e. prominent enhancement
+Which SINGLE statement regarding the pre-aortic lymph nodes is true?
+A. They include the superior mesenteric lymph nodes
+B. They drain the kidneys and upper ureters
+C. They lie posterior to the aorta
+D. Their efferent lymphatics drain into the lumbar trunk
+E. They drain the fallopian tubes in the female
+pGPT ans: I'm sorry, but the provided context does not contain specific information about the pre-aortic lymph nodes to answer your question accurately.
+
+
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 95/161:
+(a) Ipsilateral inguinal nodes
+(b) Para-aortic nodes
+(c) Common iliac nodes
+(d) Supraclavicular nodes
+(e) Retrocrural lymph nodes
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 850/2218:
+edition, 2017.
+Fig. 32.10 Regional Versus Non-Regional Lymph Nodes. The regional 
+lymph nodes (green) are located below the level of the common iliac 
+junction and staged as N1 (pelvic, hypogastric, sacral and internal iliac). 
+Distant (M1a) lymph nodes (red) are staged as metastatic disease (aortic, 
+inferior mesenteric, common iliac, inguinal, femoral, supraclavicular).
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 103/161:
+ruptures.
+50. (b) Para-aortic lymph nodes
+The lymphatics from the testis accompany the veins to the retroperitoneal nodes 
+between the bifurcation and the kidneys. The local inguinal nodes are involved only 
+if there is invasion of the scrotal wall.
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 823/2218:
+left para-aortic region (arrows). (B) There is also a normal-sized aortocaval lymph node on the second image 
+(arrow). Subsequently, an FDG-PET/CT image was obtained. Fusion images reveal that (C) lymph nodes in the 
+left para-aortic region (arrow) have brisk radiotracer uptake, consistent with metastases. In comparison, the 
+aortocaval lymph node (arrow) (D) does not demonstrate increased uptake. This was a reactive lymph node.
+80-year-old man is found to have a mass involving the corpus callosum. Broadly speaking the mass is low on T1 and high on T2. There is avid homogeneous contrast enhancement and T2 changes in periventricular regions. What is the most likely diagnosis?
+A. Lymphoma
+B. Glioblastoma multiforme
+C. Anaplastic astrocytoma
+D. Gliomatosis cerebri
+E. Progressive multifocal leucencephalopathy
+pGPT ans: I'm sorry, but without the specific context or imaging results for this 80-year-old man's case, I cannot provide a definitive answer. The diagnosis would depend on the specific characteristics of the mass and other clinical information.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 315/382:
+aches and behavioural change undergoes CT of the brain. This
+demonstrates an irregular, ill-deﬁned mass in the left frontal lobe
+extending across the corpus callosum to involve the right frontal
+lobe. The mass is of low attenuation and contains cystic areas,
+demonstrates ring enhancement following intravenous contrast,
+and has considerable surrounding oedema. What is the most
+likely diagnosis?
+a. progressive multifocal leukoencephalopathy
+b. glioblastoma multiforme
+c. lymphoma
+d. abscess
+
+> source_documents\Bydder FRCR Part A.pdf, page 328/382:
+presenting symptoms?
+a. superior pons
+b. inferior pons
+c. superior midbrain
+d. inferior midbrain
+e. superior medulla
+86) A 27-year-old female presents with emotional lability and head-
+aches. MRI of the brain demonstrates a well-deﬁned mass in the
+pericallosal region. The mass is hyperintense on T1W images and
+demonstrates
+no
+enhancement
+with
+intravenous
+gadolinium.
+There is associated agenesis of the corpus callosum. What is the
+most likely diagnosis?
+a. dermoid
+b. lipoma
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 140/161:
+(d) Lipoma
+(e) Necrotic metastasis
+32. A 42-year-old man presents with increasing headache and blurred vision. CT of the 
+head shows a large lesion in the periphery of the left parietal lobe with extensive 
+calcification. The lesion shows heterogenous contrast enhancement. There is a 
+mass effect with midline shift.
+What is the most likely diagnosis?
+(a) Ganglioglioma
+(b) Calcified arteriovenous malformation
+(c) Oligodendroglioma
+(d) Pilocytic astrocytoma
+(e) Meningioma
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 143/161:
+(d) Toxoplasmosis
+(e) Cerebral abscess
+42. A 35-year-old man presents with persistent headaches. CT of the head 
+shows a 3 cm homogenous and hyperdense mass with homogenous contrast 
+enhancement. The lesion resolved with radiotherapy. 
+What is the most likely diagnosis?
+(a) Glioma
+(b) Metastases
+(c) Lymphoma
+(d) Sarcoidosis
+(e) Oligodendroglioma
+43. A 42-year-old Caucasian woman presents with multiple fits. CT of the head shows
+You are reporting a CT abdomen of a 45-year-old man who has presented to A+E with loin to groin pain and haematuria. As well as a small ureteric calculus, you notice a cyst in the upper pole of the left kidney which has four apparently enhancing thin septae within it. There is no calcification. What should your recommendation be?
+A. Follow up at 6 months, then yearly for 5 years
+B. No follow up
+C. Surgical resection
+D. USS every 6 months
+E. USS every year
+pGPT ans: The context does not provide enough information to answer this question.
+
+
+
+> source_documents\Bydder FRCR Part A.pdf, page 192/382:
+4) A 55-year-old male has an ultrasound scan of the renal tract
+prompted by a single urinary tract infection. A kidney cyst of
+diameter 2 cm with a thin septum is seen. The septum has perce-
+ptible enhancement on CT. What is the most appropriate manage-
+ment from the choices below?
+a. discharge with no follow-up
+b. imaging follow-up
+c. partial nephrectomy
+d. nephrectomy
+e. nephroureterectomy
+5) A 78-year-old man presents with a palpable, non-tender, left breast
+
+> source_documents\Grainger & Allison’s Diagnostic Radiology_ A Textbook of Medical Imaging (2020).pdf, page 740/2218:
+(CT) of the abdomen. (A) Unenhanced and (B) intravenous contrast medium–enhanced CTs show small 
+atrophic calcified right kidney (autonephrectomy) with marginally calcified non-enhancing cystic lesion at the 
+medial aspect of the lower pole of the left kidney, with a fibrous isthmus connecting the lower pole of both 
+compartments (arrows) crossing the midline. (C) Contrast-enhanced axial CT of the kidney clearly delineates 
+the isthmus (arrow) anterior to the aorta and inferior vena cava.
+
+> source_documents\(Radiology Review, Green Book Radiology) Wolfgang F. Dahnert - Radiology Review Manual-Wolters Kluwer (2017).epub:
+◊  Most frequently occurs in intrarenal cyst of < 2 cm during peak
+parenchymal enhancement
+
+Cause:   secondary to image reconstruction algorithm used to
+adjust for beam-hardening effects
+
+√  simple fluid attenuation of < 10 HU on NECT images
+
+√  simple renal cyst mischaracterized as solid mass
+
+Recommendation if suspected: US / MR
+
+Atypical / Complicated Renal
+Cyst
+
+Path:  calcification, hemorrhage, septations,
+wall-thickening, nodularity
+
+> source_documents\Gupta FRCR Part 2A.pdf, page 90/161:
+Questions
+85
+31. A 4-year-old child was referred for a palpable abdominal mass and abdominal 
+pain. Ultrasound shows a large heterogenous mass in the abdomen. Contrast-
+enhanced CT demonstrates a large heterogenous and necrotic mass arising from 
+the right kidney, extending across the midline and displacing the aorta and inferior 
+vena cava. There are calcifications within the lesion. 
+What is the most likely diagnosis?
+(a) Neuroblastoma
+(b) Nephroblastoma
+(c) Renal cell carcinoma
+(d) Oncocytoma

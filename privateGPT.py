@@ -4,7 +4,8 @@ from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.vectorstores import Chroma
-from langchain.llms import GPT4All, LlamaCpp
+from langchain.llms import GPT4All, LlamaCpp, OpenAI
+from langchain.chat_models import ChatOpenAI
 import os
 import argparse
 import time
@@ -18,7 +19,9 @@ model_type = os.environ.get('MODEL_TYPE')
 model_path = os.environ.get('MODEL_PATH')
 model_n_ctx = os.environ.get('MODEL_N_CTX')
 model_n_batch = int(os.environ.get('MODEL_N_BATCH',8))
+model_n_gpu_layers = os.environ.get('MODEL_N_GPU_LAYERS')
 target_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS',4))
+gpt_key = os.environ.get('GPT_key')
 
 from constants import CHROMA_SETTINGS
 
@@ -33,9 +36,11 @@ def main():
     # Prepare the LLM
     match model_type:
         case "LlamaCpp":
-            llm = LlamaCpp(model_path=model_path, max_tokens=model_n_ctx, n_batch=model_n_batch, callbacks=callbacks, verbose=False)
+            llm = LlamaCpp(model_path=model_path, max_tokens=model_n_ctx, n_ctx=model_n_ctx, n_batch=model_n_batch, n_gpu_layers=model_n_gpu_layers, callbacks=callbacks, verbose=True)
         case "GPT4All":
             llm = GPT4All(model=model_path, max_tokens=model_n_ctx, backend='gptj', n_batch=model_n_batch, callbacks=callbacks, verbose=False)
+        case "GPT4":
+            llm = ChatOpenAI(model_name="gpt-4", openai_api_key=gpt_key, temperature=0)
         case _default:
             # raise exception if model_type is not supported
             raise Exception(f"Model type {model_type} is not supported. Please choose one of the following: LlamaCpp, GPT4All")
